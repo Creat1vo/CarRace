@@ -1,0 +1,6 @@
+D:\Programing Code\C# Progect\Kamdin Fesh Feshe\obj\Debug\Kamdin Fesh Feshe.csproj.AssemblyReference.cache
+D:\Programing Code\C# Progect\Kamdin Fesh Feshe\obj\Debug\Kamdin Fesh Feshe.csproj.SuggestedBindingRedirects.cache
+D:\Programing Code\C# Progect\Kamdin Fesh Feshe\obj\Debug\CarGame.Game_terrain.resources
+D:\Programing Code\C# Progect\Kamdin Fesh Feshe\obj\Debug\Kamdin Fesh Feshe.csproj.GenerateResource.cache
+D:\Programing Code\C# Progect\Kamdin Fesh Feshe\obj\Debug\CarGame.exe
+D:\Programing Code\C# Progect\Kamdin Fesh Feshe\obj\Debug\CarGame.pdb
